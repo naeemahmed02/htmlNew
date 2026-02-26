@@ -1,0 +1,32 @@
+#student_name{
+    color: rgb(34, 12, 237)
+}
+
+.la{
+    color: red;
+}
+
+.student_name_two{
+    color: orange;
+}
+#user_name{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#detail{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: sans-serif
+}
+
+button{
+    background-color: aqua;
+        padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 77px;
+    padding-right: 77px;
+    border-radius: 10px;
+    border: none;
+
+}
